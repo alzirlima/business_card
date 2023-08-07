@@ -1,6 +1,6 @@
-# i_am_poor
+# app_business_card
 
-A new Flutter project.
+Um projeto Flutter onde exibe meus dados de contato em um aplicativo.
 
 ## Getting Started
 
